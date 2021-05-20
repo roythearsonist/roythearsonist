@@ -5,6 +5,6 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - 👯 I’m looking to collaborate on HTML/CSS projects.
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about HTML/CSS
-- 📫 How to reach me: Twiter, Discord,
+- 📫 How to reach me: Twiter, Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gived myself heartburn many times.
