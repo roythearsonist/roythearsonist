@@ -8,3 +8,6 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - 📫 How to reach me: Twiter, Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gived myself heartburn many times.
+#### People I know/work with:
+- @Naoismywaifu, who helped me with HTML and CSS
+- @SaltNuggets, who I help with their project
