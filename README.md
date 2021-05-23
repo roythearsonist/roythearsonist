@@ -12,4 +12,4 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - @Naoismywaifu, who helped me with HTML and CSS
 - @SaltNuggets, who I help with their project
 #### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblobscp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblobscp?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
