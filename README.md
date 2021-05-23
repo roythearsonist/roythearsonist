@@ -13,7 +13,7 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - @SaltNuggets, who I help with their project
 #### Stats
 ##### General stats
-![SCP-999's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblobscp&count_private=true&show_icons=true&theme=dark)
+![SCP-999's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblobscp&count_private=true&show_icons=true&theme=radical)
 
 ##### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblobscp&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblobscp&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
