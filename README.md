@@ -12,4 +12,4 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - @Naoismywaifu, who helped me with HTML and CSS
 - @SaltNuggets, who I help with their project
 #### Stats
-![SCP-999's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&theme=dark)
+![SCP-999's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs??username=theblobscp&show_icons=true&theme=dark)
