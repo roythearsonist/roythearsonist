@@ -8,7 +8,7 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - 📫 How to reach me: Twiter, Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gived myself heartburn many times.
-- I have a personal website [here](https://sites.google.com/view/scp-999-about/Home-Page)
+- I have a personal website [here](https://theblobscp.github.io)
 ### People I know/work with:
 - @Naoismywaifu, who helped me with HTML and CSS
 - @SaltNuggets, who I help with their project
