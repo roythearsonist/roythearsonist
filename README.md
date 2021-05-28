@@ -20,4 +20,4 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblobscp&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 #### My Discord thing
-![Discord](https://discord.c99.nl/widget/theme-2/718291524130963550.png)
+![Discord](https://discord.c99.nl/widget/theme-1/718291524130963550.png)
