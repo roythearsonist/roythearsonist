@@ -1,11 +1,11 @@
 ## Hi there 👋
 Welcome to my very high quality programming profile! Here is some basic info GitHub autofilled:
 - 🔭 I’m currently working on my discord bot
-- 🌱 I’m currently learning JS/Discord.js
+- 🌱 I’m currently learning JS and PY
 - 👯 I’m looking to collaborate on HTML/CSS projects.
-- 🤔 I’m looking for help with JS
+- 🤔 I’m looking for help with JS/PY
 - 💬 Ask me about HTML/CSS
-- 📫 How to reach me: Twiter, Discord
+- 📫 How to reach me: Twitter, Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gived myself heartburn many times.
 - I have a personal website [here](https://theblobscp.github.io)
