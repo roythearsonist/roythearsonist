@@ -11,7 +11,7 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 - I have a personal website [here](https://theblobscp.github.io)
 ### People I know/work with:
 - @Naoismywaifu, who helped me with HTML and CSS
-- @SaltNuggets, who I help with their project
+- @CharlieS1103, who I help with their project
 ### Stats
 #### General stats
 ![SCP-999's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblobscp&count_private=true&show_icons=true&theme=radical)
