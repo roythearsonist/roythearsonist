@@ -1,9 +1,9 @@
 ## Hi there 👋
 Welcome to my very high quality programming profile! Here is some basic info GitHub autofilled:
 - 🔭 I’m currently working on my discord bot
-- 🌱 I’m currently learning Javascript and Python 
+- 🌱 I’m currently learning Javascript and jQuery
 - 👯 I’m looking to collaborate on HTML/CSS projects.
-- 🤔 I’m looking for help with Javascript/Python 
+- 🤔 I’m looking for help with Javascript/jQuery 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Twitter, Discord
 - 😄 Pronouns: He/Him
