@@ -20,6 +20,10 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" length="32" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" length="32" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" length="32" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="32" length="32" alt="Haxe" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" length="32" alt="Django" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" length="32" alt="Sass" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" length="32" alt="Bootstrap" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" length="32" alt="jQuery" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" length="32" alt="Node.js" />
