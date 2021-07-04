@@ -29,6 +29,8 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" length="32" alt="Node.js" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="32" length="32" alt="npm" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="32" length="32" alt= "Yarn" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" length="32" alt= "Git" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" length="32" alt="GitHub" /> 
 </div>
 
 ### Stats
