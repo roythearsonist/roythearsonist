@@ -30,8 +30,12 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <a href="https://www.javascript.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
  </a>
+<a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" length="32" alt="TypeScript" />
+</a>
+<a href="https://haxe.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="32" length="32" alt="Haxe" />
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" length="32" alt="Django" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" length="32" alt="Sass" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" length="32" alt="Bootstrap" />
