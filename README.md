@@ -54,8 +54,12 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <a href="https://www.npmjs.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="32" length="32" alt="npm" />
 </a>
+<a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" length="32" alt= "Git" />
+</a>
+<a href="https://github.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" length="32" alt="GitHub" />
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32" length="32" alt="Windows 10" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="32" length="32" alt="Debian" />
 </div>
