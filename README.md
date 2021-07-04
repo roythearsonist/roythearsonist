@@ -36,10 +36,18 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <a href="https://haxe.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="32" length="32" alt="Haxe" />
 </a>
+<a href="https://www.djangoproject.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" length="32" alt="Django" />
+</a>
+<a href="https://sass-lang.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" length="32" alt="Sass" />
+</a>
+<a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" length="32" alt="Bootstrap" />
+</a>
+<a href="https://jquery.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" length="32" alt="jQuery" />
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" length="32" alt="Node.js" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="32" length="32" alt="npm" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" length="32" alt= "Git" />
