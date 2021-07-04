@@ -15,8 +15,12 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 
 ### Tools
 <div style="display: flex;">
+<a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" length="32" alt="Visual Studio Code" />
+</a>
+<a href="https://atom.io/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="32" length="32" alt="Atom" />
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" length="32" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" length="32" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
