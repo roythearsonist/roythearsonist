@@ -60,8 +60,12 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <a href="https://github.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" length="32" alt="GitHub" />
 </a>
+<a href="https://www.microsoft.com/en-us/windows">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="32" length="32" alt="Windows 10" />
+</a>
+<a href="https://www.debian.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="32" length="32" alt="Debian" />
+</a>
 </div>
 
 ### Stats
