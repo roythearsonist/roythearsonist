@@ -21,9 +21,15 @@ Welcome to my very high quality programming profile! Here is some basic info Git
 <a href="https://atom.io/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="32" length="32" alt="Atom" />
 </a>
+<a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" length="32" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" length="32" alt="CSS3" />
+</a>
+<a href="https://www.javascript.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
+ </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" length="32" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="32" length="32" alt="Haxe" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" length="32" alt="Django" />
