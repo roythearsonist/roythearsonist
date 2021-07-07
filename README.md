@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm The Blob SCP</h1>
 <h3 align="center">I like programming</h3>
-
+<div style="display: flex;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/the_blob_scp" target="blank"><img src="https://img.shields.io/twitter/follow/the_blob_scp?logo=twitter&style=for-the-badge" alt="the_blob_scp" /></a> </p>
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
 
 - 🔭 I’m currently working on **My Web Design Skills**
 
