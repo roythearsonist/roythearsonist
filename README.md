@@ -49,6 +49,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" /></p>
 </div>
