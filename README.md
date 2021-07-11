@@ -15,7 +15,7 @@
 
 * 🤝 I’m looking for help with **Django**
 
-* 👨‍💻 All of my projects are available at [https://github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
+* 👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
 
 * 💬 Ask me about **Node.js/npm**
 
