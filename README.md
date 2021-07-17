@@ -50,6 +50,9 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
 
+### Latest Youtube Videos (gaming)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <div style="display: flex; ">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
 
