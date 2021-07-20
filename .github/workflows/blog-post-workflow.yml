@@ -12,3 +12,6 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://dev.to/feed/theblobscp"
+                committer_username: dev.toblogbot
+                committer_email: dev.to@blogbot.com
+                commit_message: "Got the latest posts from dev.to"
