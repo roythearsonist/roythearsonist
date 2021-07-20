@@ -52,6 +52,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I'm making a vscode extension](https://dev.to/theblobscp/i-m-making-a-vscode-extension-3l4o)
 - [About Me Post (idk how this works)](https://dev.to/theblobscp/about-me-post-idk-how-this-works-4958)
 <!-- BLOG-POST-LIST:END -->
 
