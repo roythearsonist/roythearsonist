@@ -52,6 +52,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [About Me Post (idk how this works)](https://dev.to/theblobscp/about-me-post-idk-how-this-works-4958)
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
