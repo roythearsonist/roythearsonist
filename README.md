@@ -52,6 +52,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which is better? Bootstrap or Foundation](https://dev.to/theblobscp/which-is-better-bootstrap-or-foundation-455m)
 - [I'm making a vscode extension](https://dev.to/theblobscp/i-m-making-a-vscode-extension-3l4o)
 - [About Me Post (idk how this works)](https://dev.to/theblobscp/about-me-post-idk-how-this-works-4958)
 <!-- BLOG-POST-LIST:END -->
