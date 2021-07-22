@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm The Blob SCP</h1>
 <h3 align="center">I like programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/the_blob_scp" target="blank"><img src="https://img.shields.io/twitter/follow/the_blob_scp?logo=twitter&style=for-the-badge" alt="the_blob_scp" /></a> </p>
+<p> <a href="https://twitter.com/the_blob_scp" target="blank"><img src="https://img.shields.io/twitter/follow/the_blob_scp?logo=twitter&style=for-the-badge" alt="the_blob_scp" /></a> </p>
 
 * 🔭 I’m currently working on **My Web Design Skills**
 
@@ -23,14 +23,14 @@
 
 * ⚡ Fun fact **I give myself heartburn a lot**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
 <a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -59,7 +59,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" /></p>
