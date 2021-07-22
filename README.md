@@ -7,23 +7,24 @@
 
 <p> <a href="https://twitter.com/the_blob_scp" target="blank"><img src="https://img.shields.io/twitter/follow/the_blob_scp?logo=twitter&style=for-the-badge" alt="the_blob_scp" /></a> </p>
 
-* 🔭 I’m currently working on **My Web Design Skills**
+- 🔭 I’m currently working on **My Web Design Skills**
 
-* 🌱 I’m currently learning **Django, Bootstrap, and jQuery**
+- 🌱 I’m currently learning **Django, Bootstrap, and jQuery**
 
-* 👯 I’m looking to collaborate on **Frontend**
+- 👯 I’m looking to collaborate on **Frontend**
 
-* 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Django**
 
-* 👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
 
-* 💬 Ask me about **Node.js/npm**
+- 💬 Ask me about **Node.js/npm**
 
-* 📫 How to reach me **My Discord**
+- 📫 How to reach me **My Discord**
 
-* ⚡ Fun fact **I give myself heartburn a lot**
+- ⚡ Fun fact **I give myself heartburn a lot**
 
 ### Connect with me:
+
 <p>
 <a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
 <a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
@@ -31,6 +32,7 @@
 </p>
 
 ### Languages and Tools:
+
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -52,7 +54,9 @@
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Is dev.to better than stack overflow?](https://dev.to/theblobscp/is-dev-to-better-than-stack-overflow-295m)
 - [Which is better? Bootstrap or Foundation](https://dev.to/theblobscp/which-is-better-bootstrap-or-foundation-455m)
 - [I'm making a vscode extension](https://dev.to/theblobscp/i-m-making-a-vscode-extension-3l4o)
