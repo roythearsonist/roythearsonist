@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm The Blob SCP</h1>
-<h3 align="center">I like programming</h3>
+<style>
+    .text {
+        text-align: center;
+    }
+    .flex {
+        display: flex;
+    }
+</style>
+<h1 class="text">Hi 👋, I'm The Blob SCP</h1>
+<h3 class="text">I like programming</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" /> </p>
 
@@ -15,7 +23,7 @@
 
 - 🤝 I’m looking for help with **Django**
 
-- 👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://github.com/theblobscp?tab=repositories)
 
 - 💬 Ask me about **Node.js/npm**
 
@@ -26,9 +34,9 @@
 ### Connect with me:
 
 <p>
-<a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
-<a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
+<a href="https://dev.to/theblobscp" target="blank"><img class="text" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
+<a href="https://twitter.com/the_blob_scp" target="blank"><img class="text" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img class="text" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -62,9 +70,9 @@
 - [I'm making a vscode extension](https://dev.to/theblobscp/i-m-making-a-vscode-extension-3l4o)
 <!-- BLOG-POST-LIST:END -->
 
-<div style="display: flex;">
+<div class="flex">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" /></p>
+<p>&nbsp; <img class="text" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" /></p>
+<p><img class="text" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" /></p>
 </div>
