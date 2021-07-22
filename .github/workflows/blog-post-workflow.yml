@@ -1,17 +1,17 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "5"
-                feed_list: "https://dev.to/feed/theblobscp"
-                committer_username: dev.toblogbot
-                committer_email: dev.to@blogbot.com
-                commit_message: "Got the latest posts from dev.to"
+'on':
+  schedule:
+    - cron: 0 * * * *
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: '5'
+          feed_list: 'https://dev.to/feed/theblobscp'
+          committer_username: dev.toblogbot
+          committer_email: dev.to@blogbot.com
+          commit_message: Got the latest posts from dev.to
