@@ -64,6 +64,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for svg advice](https://dev.to/theblobscp/looking-for-svg-advice-3cn9)
 - [Is dev.to better than stack overflow?](https://dev.to/theblobscp/is-dev-to-better-than-stack-overflow-295m)
 - [Which is better? Bootstrap or Foundation](https://dev.to/theblobscp/which-is-better-bootstrap-or-foundation-455m)
 - [I'm making a vscode extension](https://dev.to/theblobscp/i-m-making-a-vscode-extension-3l4o)
