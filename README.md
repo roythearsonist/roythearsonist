@@ -2,32 +2,23 @@
 
 <h3 align="center">I like programming</h3>
 
-<img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" />
+![theblobscp](https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a>
 
-<ul>
-<li>🔭 I’m currently working on <strong>My Web Design Skills</strong></li>
+*   🔭 I’m currently working on **My Web Design Skills**
+*   🌱 I’m currently learning **Django, Bootstrap, and jQuery**
+*   👯 I’m looking to collaborate on **Frontend**
+*   🤝 I’m looking for help with **Django**
+*   👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
+*   💬 Ask me about **Node.js/npm**
+*   📫 How to reach me **My Discord**
+*   ⚡ Fun fact **I give myself heartburn a lot**
 
-<li>🌱 I’m currently learning <strong>Django, Bootstrap, and jQuery</strong></li>
+### Social Stats
 
-<li>👯 I’m looking to collaborate on <strong>Frontend</strong></li>
-
-<li>🤝 I’m looking for help with <strong>Django</strong></li>
-
-<li>👨‍💻 All of my projects are available at <a href="https://https://github.com/theblobscp?tab=repositories">github.com/theblobscp?tab=repositories</a></li>
-
-<li>💬 Ask me about <strong>Node.js/npm</strong></li>
-
-<li>📫 How to reach me <strong>My Discord</strong></li>
-
-<li>⚡ Fun fact <strong>I give myself heartburn a lot</strong></li>
-</ul>
-
-<h3>Social Stats</h3>
-
-<img src="https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&amp;style=social" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/theblobscp?label=User%20Stars&amp;style=social" alt="GitHub User's stars" />
+![GitHub followers](https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/theblobscp?label=User%20Stars&style=social)
 
 <h3>Connect with me:</h3>
 
@@ -37,7 +28,7 @@
 <a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
 
 
-<h3>Main Languages and Tools:</h3>
+### Main Languages and Tools:
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -58,7 +49,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
 
-<h3>Blogs posts</h3>
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [I'm starting to use tailwind css!](https://dev.to/theblobscp/i-m-starting-to-use-tailwind-css-2nfp)
@@ -69,8 +60,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" />
+![theblobscp](https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+![theblobscp](https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark) 
+![theblobscp](https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark)
+
 </div>
