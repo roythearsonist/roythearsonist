@@ -2,44 +2,44 @@
 
 <h3 align="center">I like programming</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" /> </p>
+<img src="https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat" alt="theblobscp" />
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a>
 
 <ul>
-<li><p>🔭 I’m currently working on <strong>My Web Design Skills</strong></p></li>
+<li>🔭 I’m currently working on <strong>My Web Design Skills</strong></li>
 
-<li><p>🌱 I’m currently learning <strong>Django, Bootstrap, and jQuery</strong></p></li>
+<li>🌱 I’m currently learning <strong>Django, Bootstrap, and jQuery</strong></li>
 
-<li><p>👯 I’m looking to collaborate on <strong>Frontend</strong></p></li>
+<li>👯 I’m looking to collaborate on <strong>Frontend</strong></li>
 
-<li><p>🤝 I’m looking for help with <strong>Django</strong></p></li>
+<li>🤝 I’m looking for help with <strong>Django</strong></li>
 
-<li><p>👨‍💻 All of my projects are available at <a href="https://https://github.com/theblobscp?tab=repositories">github.com/theblobscp?tab=repositories</a></p></li>
+<li>👨‍💻 All of my projects are available at <a href="https://https://github.com/theblobscp?tab=repositories">github.com/theblobscp?tab=repositories</a></li>
 
-<li><p>💬 Ask me about <strong>Node.js/npm</strong></p></li>
+<li>💬 Ask me about <strong>Node.js/npm</strong></li>
 
-<li><p>📫 How to reach me <strong>My Discord</strong></p></li>
+<li>📫 How to reach me <strong>My Discord</strong></li>
 
-<li><p>⚡ Fun fact <strong>I give myself heartburn a lot</strong></p></li>
+<li>⚡ Fun fact <strong>I give myself heartburn a lot</strong></li>
 </ul>
 
-<h3 id="socialstats">Social Stats</h3>
+<h3>Social Stats</h3>
 
-<p><img src="https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&amp;style=social" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/theblobscp?label=User%20Stars&amp;style=social" alt="GitHub User's stars" /></p>
+<img src="https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&amp;style=social" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/theblobscp?label=User%20Stars&amp;style=social" alt="GitHub User's stars" />
 
-<h3 id="connectwithme">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
-<p>
+
 <a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
 <a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
-</p>
 
-<h3 id="mainlanguagesandtools">Main Languages and Tools:</h3>
 
-<p><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+<h3>Main Languages and Tools:</h3>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></a>
@@ -56,9 +56,9 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" /></p>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
 
-<h3 id="blogsposts">Blogs posts</h3>
+<h3>Blogs posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [I'm starting to use tailwind css!](https://dev.to/theblobscp/i-m-starting-to-use-tailwind-css-2nfp)
@@ -69,8 +69,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="theblobscp" />
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark" alt="theblobscp" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark" alt="theblobscp" />
 </div>
