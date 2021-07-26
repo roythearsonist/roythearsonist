@@ -5,8 +5,6 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a> </p>
 
-<p> <a href="https://twitter.com/the_blob_scp" target="blank"><img src="https://img.shields.io/twitter/follow/the_blob_scp?logo=twitter&style=for-the-badge" alt="the_blob_scp" /></a> </p>
-
 - 🔭 I’m currently working on **My Web Design Skills**
 
 - 🌱 I’m currently learning **Django, Bootstrap, and jQuery**
@@ -22,6 +20,10 @@
 - 📫 How to reach me **My Discord**
 
 - ⚡ Fun fact **I give myself heartburn a lot**
+
+### Social Stats
+![GitHub followers](https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/theblobscp?label=User%20Stars&style=social)
 
 ### Connect with me:
 
