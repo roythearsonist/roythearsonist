@@ -59,10 +59,6 @@
 - [Is dev.to better than stack overflow?](https://dev.to/theblobscp/is-dev-to-better-than-stack-overflow-295m)
 <!-- BLOG-POST-LIST:END -->
 
-<div style="display: flex;">
-
 ![theblobscp](https://github-readme-stats.vercel.app/api/top-langs?username=theblobscp&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 ![theblobscp](https://github-readme-stats.vercel.app/api?username=theblobscp&show_icons=true&locale=en&theme=vue-dark) 
 ![theblobscp](https://github-readme-streak-stats.herokuapp.com/?user=theblobscp&theme=vue-dark)
-
-</div>
