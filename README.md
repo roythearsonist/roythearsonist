@@ -4,13 +4,13 @@
 
 ![theblobscp](https://komarev.com/ghpvc/?username=theblobscp&label=Profile%20views&color=0e75b6&style=flat)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord" alt="theblobscp" /></a>
+[![theblobscp](https://github-profile-trophy.vercel.app/?username=theblobscp&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 *   🔭 I’m currently working on **My Web Design Skills**
 *   🌱 I’m currently learning **Django, Bootstrap, and jQuery**
 *   👯 I’m looking to collaborate on **Frontend**
 *   🤝 I’m looking for help with **Django**
-*   👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://https://github.com/theblobscp?tab=repositories)
+*   👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](/https://github.com/theblobscp?tab=repositories)
 *   💬 Ask me about **Node.js/npm**
 *   📫 How to reach me **My Discord**
 *   ⚡ Fun fact **I give myself heartburn a lot**
@@ -30,24 +30,24 @@
 
 ### Main Languages and Tools:
 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://npmjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
+[![bash](icons/bash.svg)](https://www.gnu.org/software/bash/) 
+[![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
+[![css](icons/css.svg)](https://www.w3schools.com/css/) 
+[![debian](icons/debian.svg)](https://www.debian.org/) 
+[![django](icons/django.svg)](https://www.djangoproject.com/)
+[![express](icons/express.svg)](https://expressjs.com) 
+[![html](icons/html.svg)](https://www.w3.org/html/) 
+[![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![jekyll](icons/jekyll.svg)](https://jekyllrb.com/)
+[![linux](icons/linux.svg)](https://www.linux.org/)
+[![nodejs](icons/nodejs.svg)](https://nodejs.org)
+[![npm](icons/npm.svg)](https://npmjs.com) 
+[![python](icons/python.svg)](https://www.python.org)
+[![sass](icons/sass.svg)](https://sass-lang.com)
+[![tailwind](icons/tailwind.svg)](https://tailwindcss.com/)
+[![typescript](icons/typescript.svg)](https://www.typescriptlang.org/)
+[![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
+[![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
 
 ### Blogs posts
 
