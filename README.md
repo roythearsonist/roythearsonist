@@ -10,7 +10,7 @@
 *   🌱 I’m currently learning **Django, Bootstrap, and jQuery**
 *   👯 I’m looking to collaborate on **Frontend**
 *   🤝 I’m looking for help with **Django**
-*   👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](/https://github.com/theblobscp?tab=repositories)
+*   👨‍💻 All of my projects are available at [github.com/theblobscp?tab=repositories](https://github.com/theblobscp?tab=repositories)
 *   💬 Ask me about **Node.js/npm**
 *   📫 How to reach me **My Discord**
 *   ⚡ Fun fact **I give myself heartburn a lot**
@@ -20,7 +20,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/theblobscp?label=User%20Stars&style=social)
 
-<h3>Connect with me:</h3>
+### Connect with me:
 
 
 <a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
