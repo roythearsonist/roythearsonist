@@ -48,6 +48,7 @@
 [![typescript](icons/typescript.svg)](https://www.typescriptlang.org/)
 [![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
 [![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
+[![yarn](icons/yarn.svg)](https://yarnpkg.com)
 
 ### Blogs posts
 
