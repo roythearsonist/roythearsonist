@@ -39,7 +39,6 @@
 [![express](icons/express.svg)](https://expressjs.com) 
 [![html](icons/html.svg)](https://www.w3.org/html/) 
 [![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![jekyll](icons/jekyll.svg)](https://jekyllrb.com/)
 [![linux](icons/linux.svg)](https://www.linux.org/)
 [![nodejs](icons/nodejs.svg)](https://nodejs.org)
 [![npm](icons/npm.svg)](https://npmjs.com)
