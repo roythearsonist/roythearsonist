@@ -47,6 +47,7 @@
 [![sass](icons/sass.svg)](https://sass-lang.com)
 [![tailwind](icons/tailwind.svg)](https://tailwindcss.com/)
 [![typescript](icons/typescript.svg)](https://www.typescriptlang.org/)
+[![ubuntu](icons/ubuntu.svg)](https://www.ubuntu.org)
 [![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
 [![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
 [![yarn](icons/yarn.svg)](https://yarnpkg.com)
