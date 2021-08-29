@@ -42,6 +42,7 @@
 [![nodejs](icons/nodejs.svg)](https://nodejs.org)
 [![npm](icons/npm.svg)](https://npmjs.com)
 [![numpy](icons/numpy.svg)](https://numpy.org)
+[![php](icons/php.svg)](https://www.php.net/)
 [![python](icons/python.svg)](https://www.python.org)
 [![sass](icons/sass.svg)](https://sass-lang.com)
 [![tailwind](icons/tailwind.svg)](https://tailwindcss.com/)
