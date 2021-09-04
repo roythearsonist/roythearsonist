@@ -43,6 +43,7 @@
 [![npm](icons/npm.svg)](https://npmjs.com)
 [![numpy](icons/numpy.svg)](https://numpy.org)
 [![php](icons/php.svg)](https://www.php.net/)
+[![pycharm](icons/pycharm.svg)](https://www.jetbrains.com/pycharm/)
 [![python](icons/python.svg)](https://www.python.org)
 [![raspberrypi](icons/raspberrypi.svg)](https://raspberrypi.org)
 [![sass](icons/sass.svg)](https://sass-lang.com)
