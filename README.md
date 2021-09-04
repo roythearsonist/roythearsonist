@@ -44,6 +44,7 @@
 [![numpy](icons/numpy.svg)](https://numpy.org)
 [![php](icons/php.svg)](https://www.php.net/)
 [![python](icons/python.svg)](https://www.python.org)
+[![raspberrypi](icons/raspberrypi.svg)](https://raspberrypi.org)
 [![sass](icons/sass.svg)](https://sass-lang.com)
 [![tailwind](icons/tailwind.svg)](https://tailwindcss.com/)
 [![typescript](icons/typescript.svg)](https://www.typescriptlang.org/)
