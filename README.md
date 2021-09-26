@@ -39,7 +39,6 @@
 [![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![linux](icons/linux.svg)](https://www.linux.org/)
 [![nodejs](icons/nodejs.svg)](https://nodejs.org)
-[![npm](icons/npm.svg)](https://npmjs.com)
 [![numpy](icons/numpy.svg)](https://numpy.org)
 [![php](icons/php.svg)](https://www.php.net/)
 [![pycharm](icons/pycharm.svg)](https://www.jetbrains.com/pycharm/)
