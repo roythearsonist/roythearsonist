@@ -31,7 +31,6 @@
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
-[![debian](icons/debian.svg)](https://www.debian.org/)
 [![devicon](icons/devicon.svg)](https://devicon.dev)
 [![django](icons/django.svg)](https://www.djangoproject.com/)
 [![docker](icons/docker.svg)](https://www.docker.com/)
