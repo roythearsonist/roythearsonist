@@ -56,6 +56,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What's the best place to buy a raspberry pi?](https://dev.to/theblobscp/what-s-the-best-place-to-buy-a-raspberry-pi-33fc)
 - [How do I make a web design course?](https://dev.to/theblobscp/how-do-i-make-a-web-design-course-3id8)
 - [Explain like I'm five how tailwindcss works in npm](https://dev.to/theblobscp/explain-like-i-m-five-how-tailwindcss-works-in-npm-4g7f)
