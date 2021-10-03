@@ -26,6 +26,7 @@
 <a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
 <a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="theblobscp" height="40" width="40"></a>
+
 ### Main Languages and Tools:
 
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
@@ -55,6 +56,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What's the best place to buy a raspberry pi?](https://dev.to/theblobscp/what-s-the-best-place-to-buy-a-raspberry-pi-33fc)
 - [How do I make a web design course?](https://dev.to/theblobscp/how-do-i-make-a-web-design-course-3id8)
 - [Explain like I'm five how tailwindcss works in npm](https://dev.to/theblobscp/explain-like-i-m-five-how-tailwindcss-works-in-npm-4g7f)
