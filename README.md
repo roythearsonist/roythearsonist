@@ -25,7 +25,7 @@
 <a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
 <a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZgQEnJgpBoddJ6boMzkcOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dust ink" height="30" width="40" /></a>
-
+<a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="theblobscp" height="40" width="40"></a>
 ### Main Languages and Tools:
 
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
