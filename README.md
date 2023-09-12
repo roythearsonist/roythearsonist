@@ -27,30 +27,13 @@
 <a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="roythearsonist" height="40" width="40"></a>
 
 ### Main Languages and Tools:
-
-[![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
-[![devicon](icons/devicon.svg)](https://devicon.dev)
-[![django](icons/django.svg)](https://www.djangoproject.com/)
-[![docker](icons/docker.svg)](https://www.docker.com/)
-[![express](icons/express.svg)](https://expressjs.com)
 [![html](icons/html.svg)](https://www.w3.org/html/)
 [![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![linux](icons/linux.svg)](https://www.linux.org/)
-[![nodejs](icons/nodejs.svg)](https://nodejs.org)
-[![numpy](icons/numpy.svg)](https://numpy.org)
-[![php](icons/php.svg)](https://www.php.net/)
-[![pycharm](icons/pycharm.svg)](https://www.jetbrains.com/pycharm/)
-[![python](icons/python.svg)](https://www.python.org)
-[![raspberrypi](icons/raspberrypi.svg)](https://raspberrypi.org)
 [![sass](icons/sass.svg)](https://sass-lang.com)
-[![tailwind](icons/tailwind.svg)](https://tailwindcss.com/)
-[![typescript](icons/typescript.svg)](https://www.typescriptlang.org/)
-[![ubuntu](icons/ubuntu.svg)](https://www.ubuntu.org)
 [![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
 [![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
-[![yarn](icons/yarn.svg)](https://yarnpkg.com)
 
 ### Blogs posts
 
