@@ -27,6 +27,7 @@
 <a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="roythearsonist" height="40" width="40"></a>
 
 ### Main Languages and Tools:
+
 [![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
 [![html](icons/html.svg)](https://www.w3.org/html/)
