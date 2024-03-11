@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm an arsonist</h1>
+<h1 align="center">Hi, I'm an arsonist</h1>
 
 <h3 align="center">I like programming</h3>
 
@@ -7,11 +7,11 @@
 [![roythearonist](https://github-profile-trophy.vercel.app/?username=roythearsonist&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **My Web Design Skills**
-- 🌱 I’m currently learning **Django, Bootstrap, and jQuery**
-- 👯 I’m looking to collaborate on **Frontend**
-- 🤝 I’m looking for help with **Django**
+- 🌱 I’m currently learning **A lot**
+- 👯 I’m looking to collaborate on **Pokemon projects**
+- 🤝 I’m looking for help with **Lua**
 - 👨‍💻 All of my projects are available at [github.com/roythearsonist?tab=repositories](https://github.com/roythearsonist?tab=repositories)
-- 💬 Ask me about **Node.js/npm**
+- 💬 Ask me about **Pokemon Gen 1**
 - 📫 How to reach me **My Discord**
 - ⚡ Fun fact **I give myself heartburn a lot**
 
