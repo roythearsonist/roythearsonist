@@ -10,7 +10,7 @@ jobs:
           ref: ${{ github.head_ref }}
       - uses: actions/setup-node@v2
         with:
-          node-version: 20
+          node-version: 16
       - run: npm install
       - name: Prettify code
         uses: creyD/prettier_action@v4.0
