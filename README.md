@@ -22,8 +22,8 @@
 
 ### Connect with me:
 
-<a href="https://dev.to/theblobscp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
-<a href="https://twitter.com/the_blob_scp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<a href="https://dev.to/roythearsonist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theblobscp" height="30" width="40" /></a>
+<a href="https://twitter.com/RoyTheArsonist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="roythearsonist" height="40" width="40"></a>
 
 ### Main Languages and Tools:
@@ -31,9 +31,6 @@
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
 [![html](icons/html.svg)](https://www.w3.org/html/)
 [![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![sass](icons/sass.svg)](https://sass-lang.com)
-[![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
-[![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
 
 ### Blogs posts
 
