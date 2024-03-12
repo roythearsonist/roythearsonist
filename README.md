@@ -36,12 +36,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [What&#39;s the best place to buy a raspberry pi?](https://dev.to/theblobscp/what-s-the-best-place-to-buy-a-raspberry-pi-33fc)
-- [How do I make a web design course?](https://dev.to/theblobscp/how-do-i-make-a-web-design-course-3id8)
-- [Explain like I&#39;m five how tailwindcss works in npm](https://dev.to/theblobscp/explain-like-i-m-five-how-tailwindcss-works-in-npm-4g7f)
-- [I&#39;m starting to use tailwind css!](https://dev.to/theblobscp/i-m-starting-to-use-tailwind-css-2nfp)
-- [Looking for svg advice](https://dev.to/theblobscp/looking-for-svg-advice-3cn9)
+- [Coming back to web design: What do I need to know?](https://dev.to/roythearsonist/coming-back-to-web-design-what-do-i-need-to-know-4ioh)
 <!-- BLOG-POST-LIST:END -->
 
 ![roythearsonist](https://github-readme-stats.vercel.app/api/top-langs?username=roythearsonist&show_icons=true&locale=en&layout=compact&theme=vue-dark)
